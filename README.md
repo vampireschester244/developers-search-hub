@@ -1,5 +1,4 @@
 # Developers Search Hub Project
-To add, edit and watchlist the movies with custom login page and rate them based on viewing experience
 
 ## FrondEnd:
  - HTML
